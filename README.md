@@ -39,7 +39,7 @@
  
   #
   
-<div align="center" justify-content="space-around">
+<div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorSousaM&show_icons=true&theme=dark&locale=en&layout=compact" alt="igorSousaM" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=igorSousaM&show_icons=true&theme=dark&locale=en" alt="igorSousaM" />
 </div>
