@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **TypeScript,Postgresql**
 - 💬 Ask me about **Javascript, React** and **Nodejs**
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I 
+- ⚡ Fun fact: Don't have one... :(
 - 👯 I'm looking to collaborate on anything that challenges me 
 - 🤔 I’m looking for help with ...
 
