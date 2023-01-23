@@ -1,14 +1,14 @@
-### Hi, I'm Igor Sousa ✌
-##
-<h3>Sou estudante de Física pela USP - São Carlos e aluno de Desenvolvimento Web Full Stack na Driven Education.<h3>
+## Hi, I'm Igor Sousa ✌ ##
 
-Here are some ideas to get you started:
+### I'm a Physics student at USP - São Carlos and a Full Stack Web Development student at Driven Education. ###
+
+**Here are some ideas to get you started:**
 
 - 🌱 I’m currently learning **TypeScript,Postgresql**
 - 💬 Ask me about **Javascript, React** and **Nodejs**
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I am 
-- 👯 I’m looking to collaborate on ...
+- ⚡ Fun fact: I 
+- 👯 I'm looking to collaborate on anything that challenges me 
 - 🤔 I’m looking for help with ...
 
   #
