@@ -1,22 +1,31 @@
-### Hi 👋 ,I'm Igor Sousa
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorSousaM&show_icons=true&theme=dark&locale=en&layout=compact" alt="igorSousaM" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorSousaM&show_icons=true&theme=dark&locale=en" alt="igorSousaM" />
-</div>
+### Hi, I'm Igor Sousa ✌
+##
+<h3>Sou estudante de Física pela USP - São Carlos e aluno de Desenvolvimento Web Full Stack na Driven Education.<h3>
 
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **TypeScript,Postgresql**
 - 💬 Ask me about **Javascript, React** and **Nodejs**
-- 📫 How to reach me: ...
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I
+- ⚡ Fun fact: I am 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 
-Skills
-
+  #
+**📫 How to reach me:**
+  
+ <div>
+   
+[![Linkedin Badge](https://img.shields.io/badge/-IgorSousa-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/igor-sousa-de-mesquita-762275249/ "Connect on LinkedIn")
+[![Instagram Badge](https://img.shields.io/badge/-@igor.mesquita3147-f25b85?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/igor.mesquita3147/ "Follow on Instagram")
+  
+ </div>
+  
+  
+ # 
+**Language and Tools:**
+ 
+<div>
 <img src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=white" /> 
 <img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=FFFFFF" />
@@ -25,5 +34,12 @@ Skills
 <img src="https://img.shields.io/badge/React-050505?style=for-the-badge&logo=react&logoColor=FFFFFF"/> 
 <img src="https://img.shields.io/badge/styled--components-050505?style=for-the-badge&logo=styled-components&logoColor=white" /> 
 <img src="https://img.shields.io/badge/MongoDB-050505?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vNano&langs_count=3&title_color=FFF&icon_color=FFF&text_color=9f9f9f&border_color=000000&bg_color=050505"/>
-
+<img src="https://img.shields.io/badge/PostgreSQL-050505?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+ 
+  #
+  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorSousaM&show_icons=true&theme=dark&locale=en&layout=compact" alt="igorSousaM" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorSousaM&show_icons=true&theme=dark&locale=en" alt="igorSousaM" />
+</div>
