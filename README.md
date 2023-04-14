@@ -4,11 +4,11 @@
 
 **Here are some ideas to get you started:**
 
-- 🌱 I’m currently learning **TypeScript,Postgresql**
+- 🌱 I’m currently learning **Docker**
 - 💬 Ask me about **Javascript, React** and **Nodejs**
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: Don't have one... :(
-- 👯 I'm looking to collaborate on anything that challenges me 
+- ⚡ Fun fact: Love to play poker (but I play poorly) and read mangás
+- 👯 I'm looking to collaborate on anything that challenges me or involves education  
 - 🤔 I’m looking for help with ...
 
   #
